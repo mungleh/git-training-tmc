@@ -40,9 +40,9 @@
     "version" : "Latest",
     "type" : "joblet"
   }, {
-    "id" : "_ykPJAInrEeil5aKDSgFuTw - metadata",
+    "id" : "_jlnWsJuGEe-JSIpp_zoL_A",
     "version" : "Latest",
-    "type" : "schema"
+    "type" : "joblet"
   } ]
 }, {
   "baseItem" : {
