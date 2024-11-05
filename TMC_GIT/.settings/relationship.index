@@ -11,6 +11,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_O5TxoJuEEe-JSIpp_zoL_A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_MUbaEJuEEe-JSIpp_zoL_A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MUbaEJuEEe-JSIpp_zoL_A - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_O_dcMGp3EemXMLEeEZYAlg",
     "version" : "0.1",
     "type" : "job"
