@@ -150,4 +150,15 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_jlnWsJuGEe-JSIpp_zoL_A",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_ykPJAInrEeil5aKDSgFuTw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
