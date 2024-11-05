@@ -121,6 +121,17 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_nmwbcJuHEe-JSIpp_zoL_A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_HVjk8JuHEe-JSIpp_zoL_A",
+    "version" : "Latest",
+    "type" : "joblet"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_r8NxUGp1EemXMLEeEZYAlg",
     "version" : "0.1",
     "type" : "job"
