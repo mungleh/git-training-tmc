@@ -136,6 +136,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_jxpgMJuJEe-JSIpp_zoL_A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_i59fsJuIEe-JSIpp_zoL_A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_i59fsJuIEe-JSIpp_zoL_A - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_nmwbcJuHEe-JSIpp_zoL_A",
     "version" : "0.1",
     "type" : "job"
